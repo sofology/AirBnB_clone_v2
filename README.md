@@ -298,5 +298,5 @@ $ python3 unittest -m tests/test_console.py
 No known bugs at this time. 
 
 ## Authors
-Ephrem Abebe - [Github](https://github.com/ephayeabe)  
+Sofonias Sintayehu - [Github](https://github.com/sofology)  
 ANTENEH Bizuneh - [Github](https://github.com/Anteneh2121)
